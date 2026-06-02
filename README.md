@@ -1,6 +1,9 @@
 # أول مشروع لي باستخدام HTML و CSS
 
 ## معاينة المشروع
+## image project
+![image here](<img width="2537" height="1351" alt="webPageImg" src="https://github.com/user-attachments/assets/7bc3b1d8-85bc-434e-99df-522aba54fe4e" />
+)
 
 https://tutorial-project-tz9l8.kinsta.page/
 
@@ -41,5 +44,5 @@ https://tutorial-project-tz9l8.kinsta.page/
 ## ملاحظة
 
 ما زلت في بداية رحلتي في تعلم البرمجة، لذلك أرحب بأي ملاحظات أو نصائح تساعدني على التطور وتحسين مشاريعي القادمة.
-# ملاحظة: لم اقم بتغيير اي شيء من تنسيقات تابعة لصديقنا Musab Kubbi وذلك بسبب بعض الكسل, القادم افضل ان شاء الله . 
+
 #### ملاحظة: لم اقم بتغيير اي شيء من تنسيقات تابعة لصديقنا Musab Kubbi وذلك بسبب بعض الكسل, القادم افضل ان شاء الله. 
