@@ -2,8 +2,7 @@
 
 ## معاينة المشروع
 ## image project
-![image here](<img width="2537" height="1351" alt="webPageImg" src="https://github.com/user-attachments/assets/7bc3b1d8-85bc-434e-99df-522aba54fe4e" />
-)
+![image here](https://github.com/MusaabK99/Portfolio-Tutorial/blob/main/assets/imgs/webPageImg.png)
 
 https://tutorial-project-tz9l8.kinsta.page/
 
